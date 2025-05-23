@@ -20,7 +20,7 @@ ___
 ___
 
 ## _LINKS_
-notion briefing: https://boiling-waxflower-787.notion.site/Passo-a-passo-HOTELARIA-1fa1a144724480b099bfde25ccf66fbf?pvs=4  
-figma: https://www.figma.com/design/4Ibe2UlEd6xtBxFW2w9T65/Dispositivos-M%C3%B3veis?node-id=0-1&t=Tg9FUbA2iatLdrLS-1
+notion briefing: https://boiling-waxflower-787.notion.site/Passo-a-passo-HOTELARIA-1fa1a144724480b099bfde25ccf66fbf?pvs=4     
+figma: https://www.figma.com/design/4Ibe2UlEd6xtBxFW2w9T65/Dispositivos-M%C3%B3veis?node-id=0-1&t=Tg9FUbA2iatLdrLS-1  
 
 ___
