@@ -19,7 +19,7 @@ ___
 >
 ___
 
-## _LINKS_
+## _LINKS_ 🔗
 notion briefing: https://lizard-tangerine-a45.notion.site/BRIEFING-App-de-Hacks-de-Produtividade-1fc6cd955f7a800fa9a4c22d751de012?pvs=4
 figma: https://www.figma.com/design/4Ibe2UlEd6xtBxFW2w9T65/Dispositivos-M%C3%B3veis?node-id=0-1&t=Tg9FUbA2iatLdrLS-1  
 
