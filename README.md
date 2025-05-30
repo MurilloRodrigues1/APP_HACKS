@@ -49,3 +49,5 @@ A nossa ideia é fazer um aplicativo que segue as orientações passsadas pelo p
 _Não temos a intenção de implementar todos os itens mencionados anteriormente. Estabelecemos prioridades e identificamos possibilidades que serão apresentadas conforme a finalização do projeto._
 _Focamos na aparência do aplicativo, utilizando referências visuais mais leves e minimalistas, com o objetivo de transmitir tranquilidade e incentivar a concentração do usuário em suas atividades e também na sua rotina_
 
+_Iniciamos a fase de programação e percebemos que estamos avançando dentro do cronograma. Enfrentamos algumas dificuldades durante o processo, mas nada que não possa ser resolvido com foco e produtividade. A ideia principal é começar pela tela de login, utilizando como base o código da última atividade passada pelo professor. No entanto, vamos adaptá-lo conforme as necessidades e identidade do nosso projeto._
+
